@@ -20,4 +20,5 @@ A simple number guessing game in Java that demonstrates the use of:
 1. Install Java (JDK 8 or higher)
 2. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/NumberGuesser.git
+git clone https://github.com/marinkovic2009-tech
+/NumberGuesser.git
